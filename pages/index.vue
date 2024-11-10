@@ -13,9 +13,9 @@ import img5 from "@/assets/5.jpg"
     <section class="page">
         <h1>Welcome to our server</h1>
         <p>Here you can find the instructions on how to join our self hosted minecraft server</p>
-        <p class="note"><b>Note:</b> Please read the below rules first before joining the server</p>
+        <!-- <p class="note"><b>Note:</b> Please read the below rules first before joining the server</p> -->
 
-        <br>
+        <!-- <br>
         <h2>Minecraft Server Rules</h2>
         <div class="rules">
             <h3>1. Base Protection:</h3>
@@ -64,7 +64,7 @@ import img5 from "@/assets/5.jpg"
             <ul>
                 <li>You cannot <b>enter</b> the opponent's base if any of their <b>team members</b> are inside.</li>
             </ul>
-        </div>
+        </div> -->
 
 
         <br>
